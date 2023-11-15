@@ -22,7 +22,8 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/android-session-management.git
+
+git clone https://github.com/Kevinsholim06/SessionManagement.git
 Open in Android Studio:
 
 Launch Android Studio.
