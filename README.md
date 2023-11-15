@@ -17,27 +17,31 @@ Features
 Login Screen: Allows users to input credentials to log in.
 Session Management: Demonstrates how to maintain user sessions using SharedPreferences.
 Logout Functionality: Provides a way for users to log out and clear session data.
+
 Installation
 Clone the Repository:
 
-bash
-Copy code
+bash Copy code
 
 git clone https://github.com/Kevinsholim06/SessionManagement.git
+
 Open in Android Studio:
 
 Launch Android Studio.
 Click on Open an Existing Android Studio Project.
 Navigate to the cloned directory and select it.
+
 Usage
 Run the App:
 
 Connect your Android device or use an emulator.
 Click on the Run button in Android Studio.
+
 Login:
 
 login using any dummy credentials
 Upon successful login, the app maintains the session.
+
 Logout:
 
 Log out using the provided logout functionality.
